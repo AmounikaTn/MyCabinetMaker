@@ -1,16 +1,14 @@
 MyCabinetMaker is a user friendly website it provide carpentry services to design and develop bespoke pieces using respected equipment brands.
 
-Features of shopping cart
-Secure registration and profile managementfacilities for Customers.
-Browsing through the e-Mall to see the itemsthat are there in each category of products likeApparel, Kitchen accessories,
-Bath accessories, Food items etc.
-Creating a Shopping cart so that customer canShop N number of items and checkout finally withthe entire shopping cart
-Customers should be able to mail the Shopabout the items they would like to see in theShop
-Secured mechanism for checking out from theShop( Credit card verification mechanism).Updates to customers about the Recent Items inthe Shop.
+MODULES
+
+BOOKING- user can book carpenter for their need.
+FURNITURE STORE-User can buy furniture using this page.
+Feedback -We are giving service score to the carpenter based on user feedback.
 
 Brief overview of the technology
  
-HTML: HTML is used to create and save webdocument. E.g. Notepad/Notepad++
+HTML: HTML is used to create and save webdocument. 
 CSS : (Cascading Style Sheets) Create attractiveLayout
 JavaScript: it is a programming language,commonly use with web browsers.
 Back end: PHP, MySQL
